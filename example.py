@@ -1,3 +1,5 @@
+import pytest
+
 from bclib import bancor
 
 bancor_1 = bancor(300000, 1, 0.2)
