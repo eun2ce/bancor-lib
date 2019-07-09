@@ -1,4 +1,4 @@
-# bancor
+# bancor algorithm library
 simple POC for BANCOR reserve drain
 
 ### References
